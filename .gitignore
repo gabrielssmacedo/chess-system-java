@@ -1,3 +1,7 @@
+.project
+.classpath
+bin/
+
 # Compiled class file
 *.class
 
